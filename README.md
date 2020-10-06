@@ -1,2 +1,7 @@
 # Laravel-vue-basic
-laravel+vue Example
+laravel 5.6
+vue2
+element ui
+vuex
+vue-router
+axios
