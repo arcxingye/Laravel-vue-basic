@@ -4,5 +4,6 @@ vue2
 element-ui  
 vuex  
 vue-router  
-axios
-<p>npm i</p>
+axios  
+
+>npm i
